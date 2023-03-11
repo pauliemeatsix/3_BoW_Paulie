@@ -1,0 +1,11 @@
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/CMakeFiles/main.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/CMakeFiles/edit_cache.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/CMakeFiles/rebuild_cache.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/html_writer.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/image_browser.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/serialize.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/convert_dataset.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/bow.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/kmeans.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/edit_cache.dir
+/home/paulieyap/Documents/MSR7/3_BoW_Paulie/build/lib/CMakeFiles/rebuild_cache.dir
