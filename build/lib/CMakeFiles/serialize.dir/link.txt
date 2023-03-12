@@ -1,2 +1,0 @@
-/usr/bin/ar qc libserialize.a CMakeFiles/serialize.dir/serialization/src/serialize.cpp.o
-/usr/bin/ranlib libserialize.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbow.a CMakeFiles/bow.dir/bow/src/bow.cpp.o
-/usr/bin/ranlib libbow.a
